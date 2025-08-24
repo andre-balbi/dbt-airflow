@@ -11,3 +11,8 @@ webserver_config.py
 airflow.cfg
 airflow.db
 CLAUDE.md
+
+**/.venv/
+**/venv/
+**/ENV/
+**/env/
